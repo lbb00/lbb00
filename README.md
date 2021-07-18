@@ -11,7 +11,7 @@
 ### NPM
 
 - [use-singleton](https://www.npmjs.com/package/use-singleton) Create singleton better
-- [web-share](https://www.npmjs.com/package/@climple/web-share)
+- [web-share](https://www.npmjs.com/package/@climple/web-share) 网页分享 SDK
 
 ### Other
 
