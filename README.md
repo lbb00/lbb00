@@ -8,7 +8,7 @@
 - [concurrent-pro](https://github.com/lbb00/concurrent-pro) Limit and prioritize the concurrency.
 - [figma-css-better](https://github.com/lbb00/figma-css-better) Figma CSS 转换为微信小程序的样式
 - [use-singleton](https://www.npmjs.com/package/use-singleton) Create singleton better
-- [web-share](https://www.npmjs.com/package/@climple/web-share) 网页分享 SDK
+- [web-share](https://www.npmjs.com/package/lbb/easy-web-share) 网页分享 SDK
 
 ## 弃坑
 
