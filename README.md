@@ -9,7 +9,7 @@
 - [sku-specs-select](https://github.com/lbb00/sku-specs-select)
 - [figma-css-better](https://github.com/lbb00/figma-css-better)
 - [use-singleton](https://www.npmjs.com/package/use-singleton)
-- [easy-web-share](https://www.npmjs.com/package/easy-web-share)
+- [easy-web-share](https://github.com/lbb00/easy-web-share)
 - [concurrent-pro](https://github.com/lbb00/concurrent-pro)
 - [speed-measure-vite-plugin](https://www.npmjs.com/package/speed-measure-vite-plugin)
 - [vite-plugin-css-modules-optimize](https://www.npmjs.com/package/vite-plugin-css-modules-optimize)
