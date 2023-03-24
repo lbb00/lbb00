@@ -6,9 +6,9 @@
 
 ## 维护中
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/lbb00/sku-specs-select?style=social)](https://github.com/lbb00/sku-specs-select) [sku-specs-select](https://github.com/lbb00/sku-specs-select)
+[![GitHub Repo stars](https://img.shields.io/github/stars/lbb00/sku-specs-select)](https://github.com/lbb00/sku-specs-select) [sku-specs-select](https://github.com/lbb00/sku-specs-select)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/lbb00/figma-css-better?style=social)](https://github.com/lbb00/figma-css-better) [figma-css-better](https://github.com/lbb00/figma-css-better)
+[![GitHub Repo stars](https://img.shields.io/github/stars/lbb00/figma-css-better)](https://github.com/lbb00/figma-css-better) [figma-css-better](https://github.com/lbb00/figma-css-better)
 
 [![npm](https://img.shields.io/npm/dm/use-singleton)](https://www.npmjs.com/package/use-singleton) [use-singleton](https://github.com/lbb00/use-singleton)
 
@@ -23,9 +23,9 @@
 ## 弃坑
 
 - [1942](https://github.com/lbb00/1942)
-- [![GitHub Repo stars](https://img.shields.io/github/stars/lbb00/aowu?style=social)](https://github.com/lbb00/aowu) [aowu](https://github.com/lbb00/aowu)
+- [![GitHub Repo stars](https://img.shields.io/github/stars/lbb00/aowu)](https://github.com/lbb00/aowu) [aowu](https://github.com/lbb00/aowu)
 - [thriftily](https://github.com/lbb00/thriftily)
 - [xcandy-ui-taro](https://github.com/xxxcandy/xcandy-ui-taro)
-- [![GitHub Repo stars](https://img.shields.io/github/stars/lbb00/weapp-workflow?style=social)](https://github.com/lbb00/weapp-workflow)[weapp-workflow](https://github.com/lbb00/weapp-workflow)
+- [![GitHub Repo stars](https://img.shields.io/github/stars/lbb00/weapp-workflow)](https://github.com/lbb00/weapp-workflow) [weapp-workflow](https://github.com/lbb00/weapp-workflow)
 - [hubot-wechat-better](https://github.com/lbb00/hubot-wechat-better)
 - [VBS-QQTools](https://github.com/lbb00/VBS-QQTools)
