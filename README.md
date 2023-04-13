@@ -2,7 +2,7 @@
 
 > :building_construction: 拉磨的驴 -> Like a grinding donkey.
 
-[👁 Blog](https://uoyguvbzfk.feishu.cn/wiki/wikcnB9aQBMiCZoLVZTf0FGYYhb) 
+[👁 Blog](https://uoyguvbzfk.feishu.cn/wiki/wikcnB9aQBMiCZoLVZTf0FGYYhb)
 
 ## 维护中
 
@@ -16,9 +16,9 @@
 
 [![npm](https://img.shields.io/npm/dm/concurrent-pro)](https://www.npmjs.com/package/concurrent-pro) [concurrent-pro](https://github.com/lbb00/concurrent-pro)
 
-[![npm](https://img.shields.io/npm/dm/speed-measure-vite-plugin)](https://www.npmjs.com/package/speed-measure-vite-plugin) [speed-measure-vite-plugin](https://www.npmjs.com/package/speed-measure-vite-plugin)
+[![npm](https://img.shields.io/npm/dm/speed-measure-vite-plugin)](https://www.npmjs.com/package/speed-measure-vite-plugin) [speed-measure-vite-plugin](https://github.com/lbb00/speed-measure-vite-plugin)
 
-[![npm](https://img.shields.io/npm/dm/vite-plugin-css-modules-optimize)](https://www.npmjs.com/package/vite-plugin-css-modules-optimize) [vite-plugin-css-modules-optimize](https://www.npmjs.com/package/vite-plugin-css-modules-optimize)
+[![npm](https://img.shields.io/npm/dm/vite-plugin-css-modules-optimize)](https://www.npmjs.com/package/vite-plugin-css-modules-optimize) [vite-plugin-css-modules-optimize](https://github.com/lbb00/vite-plugin-css-modules-optimize)
 
 ## 弃坑
 
