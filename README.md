@@ -2,4 +2,4 @@
 
 > :building_construction: 拉磨的驴 -> Like a grinding donkey.
 
-[BLOG](https://uoyguvbzfk.feishu.cn/wiki/wikcnB9aQBMiCZoLVZTf0FGYYhb)
+[BLOG](https://lbb00.com)
